@@ -1,1 +1,1 @@
-esse jogo não é perigoso o windows só bloqueia porque não é um arquivo reconhecido como um app então se windows bloquear lenbreçe não precisa ter medo de baixar
+esse jogo eu fiz para testar a engine raycasting game maker e quis mostrar para ver oque vcs acham
